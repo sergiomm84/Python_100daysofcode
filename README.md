@@ -1,6 +1,6 @@
-# Pyton_100daysofcode
+# Python_100daysofcode
 
-## Pyton. 100 days of code challenge
+## Python. 100 days of code challenge
 
 **1st day:** print("\*\*\*")
 
