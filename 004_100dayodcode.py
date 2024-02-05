@@ -14,11 +14,11 @@ Myself...
 I study pokemon as a profession.
 But we're here to give you a Pokemon.
 So let's start with it.
-Wich pokemon would you choose?""", "\033[32m \n 1.Venasaur, the grass pokemon",
+Which pokemon would you choose?""", "\033[32m \n 1.Venasaur, the grass pokemon",
     "\033[31m \n 2.Charmander, the fire pokemon",
     "\033[34m \n 3.Squirtle, the water pokemon \033[0m")
 
-myPokemon = input("Wich pokemon do you choose?  ")
+myPokemon = input("Which pokemon do you choose?  ")
 print("Excellent!")
 
 print("Now it's time to go into your first battle!")
